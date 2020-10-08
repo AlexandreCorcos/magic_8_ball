@@ -10,5 +10,5 @@ The objective of this challenge is to solidify what you've learn't in the Dicee 
 
 We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+![Finished App](https://github.com/AlexandreCorcos/images/blob/master/8-ball-flutter-gif.gif)
 
